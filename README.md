@@ -17,4 +17,4 @@
 ****
 ### 참여자
 - 김현아 
-- 이민아 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={mina1505})](https://solved.ac/{mina1505})
+- 이민아
