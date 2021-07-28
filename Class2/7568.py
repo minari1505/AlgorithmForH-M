@@ -9,5 +9,3 @@ for j in range(n):
     for k in range(n):
         if (li[j][0] < li [k][0] and li[j][1] < li[k][1]):
             count[j] +=1
-for k in range(n):
-    print(count[k])
