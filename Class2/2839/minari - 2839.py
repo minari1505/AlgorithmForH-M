@@ -18,5 +18,9 @@ while N>=0:
         count += 1  
 else:
     print('-1')
+<<<<<<< HEAD
+=======
+    
+>>>>>>> 8965b8a48a0db18abd5e7348799cf8a92e2b93a7
 ```
 
