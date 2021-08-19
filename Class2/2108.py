@@ -7,7 +7,6 @@ def count_num(data):
         return cnt_list[1][0]
     else:
         return cnt_list[0][0]
-
 def mean(data):
     return round(sum(data)/ len(data))
 def mid(data):

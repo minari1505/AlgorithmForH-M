@@ -1,6 +1,6 @@
 import sys
 n = int(sys.stdin.readline())
-list = [int(sys.stdin.readline().strip()) for i in range(n)]
-list.sort()
-for j in list:
+li = [int(sys.stdin.readline().strip()) for i in range(n)]
+li.sort()
+for j in li:
     print(j)
